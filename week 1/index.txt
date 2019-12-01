@@ -1,0 +1,27 @@
+<html>
+<head>
+Web Page for Week and Seasons
+</head>
+<body>
+<h1>Babatunde Adekunle</h1><br>
+<h1>Days of the Week</h1>
+<ul>
+<li>Monday</li>
+<li>Tuesday</li>
+<li>Wednesday</li>
+<li>Thursday</li>
+<li>Friday</li>
+<li>Saturday</li>
+<li>Sunday</li>
+</ul><br>
+<h1>Seasons</h1>
+<ol>
+<ol type=“A”>
+<li>Spring</li>
+<li>Summer</li>
+<li>Fall</li>
+<li>Winter</li>
+</ol>
+<p>A diagram of the organization of a website is called a <strong >site map</strong > or <strong >storyboard</strong>. Creating the <strong>site map</strong> is one of the initial steps in developing a website.</p>
+</body>
+</html>

@@ -1,0 +1,18 @@
+https://www.uopcourses.com
+
+
+http://www.uopstudy.com/web-240
+
+
+uoptutorialstore@hotmail.com
+
+Yang Xiaorong 
+How to create Partition on Windows 10 | Partition Hard Drives
+
+
+
+sudo yum install httpd -y
+sudo systemctl start httpd
+curl http://localhost
+
+
